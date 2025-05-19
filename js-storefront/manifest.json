@@ -10,19 +10,7 @@
       "csr": {
         "webroot": "dist/spartacusstore/browser/"
       },
-      "enabledRepositories": ["spartacus-6"]
-    },
-    {
-      "name": "b2bspastore",
-      "path": "b2bspastore",
-      "ssr": {
-        "enabled": true,
-        "path": "dist/b2bspastore/server/server.mjs"
-      },
-      "csr": {
-        "webroot": "dist/b2bspastore/browser/"
-      },
-      "enabledRepositories": ["spartacus-6"]
+      "enabledRepositories": ["spartacus-6","spartacus-dev"]
     }
   ],
   "nodeVersion": "22"
