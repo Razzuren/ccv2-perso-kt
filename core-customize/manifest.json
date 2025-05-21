@@ -239,6 +239,10 @@
                 {
                     "name": "smarteditwebservices",
                     "contextPath": "/smarteditwebservices"
+                }, 
+                {
+                    "name": "adaptivesearchwebservices",
+                    "contextPath": "/adaptivesearchwebservices"
                 },
                 {
                     "name": "cmssmartedit",
