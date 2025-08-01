@@ -388,12 +388,12 @@
     <extension name='sappricing' />
     <extension name='sappricingbackoffice' />
     <extension name='sappricingbol' />
-    <extension name='sappricingproductcarouseladdon' />
+   <!--  <extension name='sappricingproductcarouseladdon' />
     <extension name='sapproductconfigbackofficessc' />
     <extension name='sapproductconfigcpiorderexchangessc' />
     <extension name='sapproductconfigmodel' />
     <extension name='sapproductconfigruntimessc' />
-    <extension name='sapproductconfigservicesssc' />
+    <extension name='sapproductconfigservicesssc' />-->
     <extension name='sapqualtricsaddon' />
     <extension name='returnssupport' />
     <extension name='sapcpiomsreturnsexchange' />
